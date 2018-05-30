@@ -1,4 +1,4 @@
-# move-it-code
+# Code for Move It!
 Teensyduino (Teensy + Arduino) code for a toy that I helped make in the MIT class 2.00B (Toy Product Design).
 
 Toy name: Move It!
